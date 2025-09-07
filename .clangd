@@ -1,0 +1,7 @@
+CompileFlags:
+    Add:
+        - -I"d:\Program Files (x86)\keil5\ARM\include"
+    Remove: []
+    CompilationDatabase: ./build/Target 1
+Diagnostics:
+    Suppress: "*"
